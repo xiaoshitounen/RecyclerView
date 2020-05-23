@@ -1,0 +1,6 @@
+rootProject.name='05_22_RecyclerView'
+include ':app'
+include ':linear_ver'
+include ':linear_hor'
+include ':grid'
+include ':staggered_grid'
